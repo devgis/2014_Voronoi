@@ -1,0 +1,9 @@
+C:\Voronoi\Voronoi\Voronoi\bin\Debug\Voronoi.exe
+C:\Voronoi\Voronoi\Voronoi\bin\Debug\Voronoi.pdb
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\ResolveAssemblyReference.cache
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\Voronoi.MainForm.resources
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\Voronoi.Properties.Resources.resources
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\Voronoi.csproj.GenerateResource.Cache
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\Voronoi.exe
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\Voronoi.pdb
+C:\Voronoi\Voronoi\Voronoi\obj\Debug\Voronoi.SelectScale.resources
